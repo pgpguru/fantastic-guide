@@ -1,0 +1,26 @@
+.hide {
+    display: none;
+  }
+  
+  .show {
+    display: block;
+  }
+  
+  header {
+    display: block;
+  }
+  
+  #title {
+    font-weight: 700;
+  }
+  
+  button:hover {
+    background-color: purple;
+  }
+  
+  button {
+    color: white;
+    display: block;
+    background-color: #5b3388;
+  }
+  
