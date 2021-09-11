@@ -31,3 +31,7 @@ GIVEN I am taking a code quiz
 - Repository contains multiple descriptive commit messages. [x]
 - Repository contains quality readme file with description, screenshot, and link to deployed application. [x]
 - The URL of the GitHub repository, with a unique name and a readme describing the project. [x]
+
+
+## Deployed Link
+https://pgpguru.github.io/fantastic-guide/
